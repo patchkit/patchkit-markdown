@@ -1,6 +1,6 @@
 {
   "name": "patchkit-markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Render markdown (commonly used in messages)",
   "main": "index.jsx",
   "scripts": {
