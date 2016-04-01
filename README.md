@@ -11,3 +11,9 @@ import * as Markdown from 'patchkit-markdown'
 // if provided, msg will supply username lookup for @-mentions
 <Markdown.Block md={md} msg={msg} />
 ```
+
+Use the .less file:
+
+```less
+@import "node_modules/patchkit-markdown/styles.less"
+```
